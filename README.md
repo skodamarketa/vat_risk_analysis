@@ -1,6 +1,6 @@
 # VAT Risk Analysis -- Q1 2025
 
-A data analysis project that processes Q1 2025 sales transaction data, converts multi-currency amounts to EUR using live exchange rates, calculates VAT liabilities, and performs statistical risk assessment including outlier detection, distribution analysis, and hypothesis testing.
+A data analysis project that processes Q1 2025 sales transaction data, converts multi-currency amounts to EUR using live exchange rates, calculates VAT liabilities, and performs statistical risk assessment including outlier detection with hypothesis testing and distribution analysis.
 
 ## Overview
 
